@@ -1,0 +1,15 @@
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.exe
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.deps.json
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.runtimeconfig.json
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.runtimeconfig.dev.json
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.dll
+D:\domo\VS\MYFirst\MYFirst\bin\Debug\netcoreapp3.1\MYFirst.pdb
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.csprojAssemblyReference.cache
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.AssemblyInfoInputs.cache
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.AssemblyInfo.cs
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.csproj.CoreCompileInputs.cache
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.dll
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.pdb
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.genruntimeconfig.cache
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.Form1.resources
+D:\domo\VS\MYFirst\MYFirst\obj\Debug\netcoreapp3.1\MYFirst.csproj.GenerateResource.cache
